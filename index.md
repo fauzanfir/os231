@@ -7,6 +7,6 @@
 [LOG](https://github.com/fauzanfir/os231/blob/main/TXT/mylog.txt) ---
 <br>
 <hr>
-This is os222 and I am glanharith.
+This is os222 and I am fauzanfir.
 <br><br>
 This is the way!
