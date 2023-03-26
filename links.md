@@ -40,3 +40,11 @@ permalink: /LINKS/
    Gives explanation on Virtual Memory
 2. [Virtual Memory on Linux](https://www.logicmonitor.com/blog/the-right-way-to-monitor-virtual-memory-on-linux)<br>
    Gives further understanding on how the Virtual Memory is used on Linux.
+
+### WEEK 06
+1. [The fork() System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)<br>
+"What is fork() in C? How does fork() work?" We can get the answers to those questions from this article.
+ This article gives a great explanation about fork() with several code examples and pictures that can help us understand more about fork().
+2. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
+This video is a great choice to watch if you want to learn about thread in Operating System.
+This video explains the meaning of thread in OS, the meaning and difference between Single-threaded process and Multi-threaded process, and also lets you know about the benefits of multi-threaded programming.
