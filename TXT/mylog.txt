@@ -41,3 +41,9 @@ ZCZC W06 30 L05 Studying & doing quiz
 ZCZC W06 40 L08 Ask friend about OS
 ZCZC W06 45 L15 Assignment #6
 ZCZC W06 5 L41 Add log for Week 6
+ZCZC W07 100 L17 Assignment #07
+ZCZC W07 120 L05 POP Quiz
+ZCZC W07 15 L05 Quiz related including studying (Short answer quiz)
+ZCZC W07 110 L17 Assignment #07
+ZCZC W07 25 L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 10 TXT/mylog.txt related.
