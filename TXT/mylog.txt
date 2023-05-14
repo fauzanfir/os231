@@ -56,3 +56,12 @@ ZCZC W08 120 L05 POP Quiz
 ZCZC W08 80 L05 Quiz related including studying(Friday quiz)
 ZCZC W08 25 L43 TXT/myrank.txt related, including peer review.
 ZCZC W08 10 TXT/mylog.txt related.
+ZCZC W09 100 L19 Assignment #09
+ZCZC W09 100 L99 Face-to-face lecture
+ZCZC W09 55 L05 Quiz related including studying (Short answer quiz)
+ZCZC W09 20 L05 POP Quiz
+ZCZC W09 80 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 200 L19 Assignment #09
+ZCZC W09 90 L05 Quiz related including studying(Friday quiz)
+ZCZC W09 25 L43 TXT/myrank.txt related, including peer review.
+ZCZC W09 10 TXT/mylog.txt related.

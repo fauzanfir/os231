@@ -57,10 +57,18 @@ There are also several code examples in this article.
 2. [Peterson's Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/)<br>
 This article contains a great description of Peterson's algorithm in process synchronization.This article also gives pictures, code examples, and output of the codes that can help us to understand the materials easier.
 
-## WWEK 08
+## WEEK 08
 1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
 This source is the official guidance to make the latest version of LFS. 
 This source provides great table of contents and subsections.
 2. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This article gives clear explanation about multiple-processor scheduling. 
 This article explains that multiple CPU’s are available in multiple-processor scheduling and hence load sharing becomes possible.
+
+## WEEK 09
+1. [Introduction to RAID, Concepts of RAID and RAID Levels in Linux](https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/)<br>
+You can get to know about RAID in Linux in this article. 
+RAID is explained as a Redundant Array of Inexpensive disks, but nowadays it is called Redundant Array of Independent drives. Earlier it is used to be very costly to buy even a smaller size of disk, but nowadays we can buy a large size of disk with the same amount like before. Raid is just a collection of disks in a pool to become a logical volume. There are two types of Raid, software and hardware.
+2. [What is BIOS?](https://www.youtube.com/watch?v=ncUmWthHrU0)<br>
+This video explain about basic Input/Output System In computing. 
+BIOS is firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs. The BIOS firmware comes pre-installed on a personal computer's system board, and it is the first software to run when powered on.
